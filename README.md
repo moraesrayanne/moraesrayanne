@@ -1,4 +1,4 @@
-<img src="./img/Rayanne%20Moraes.png">
+<img width="940px" src="./img/Rayanne%20Moraes.png">
 <center>
 <table>
     <tr>
