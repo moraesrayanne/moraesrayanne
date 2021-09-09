@@ -1,4 +1,3 @@
-<img width="940px" src="./img/banner.png">
 <center>
 <table>
     <tr>
