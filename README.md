@@ -11,14 +11,9 @@
 
 <hr>
 
-Meu nome é Rayanne Moraes, sou estudante de Análise e Desenvolvimento de Sistemas e estou a procura da minha primeira oportunidade na área de desenvolvimento, seja como estagiária ou como desenvolvedora júnior. No momento estou estudando HTML5, CSS3, Javascript e conhecendo alguns frameworks e bibliotecas.
+Meu nome é Rayanne Moraes, sou estudante de Análise e Desenvolvimento de Sistemas, atuo como estagiária Front End no Grupo Soma e estou a procura da minha primeira oportunidade como Júnior na área de desenvolvimento. No momento estou estudando Javascript e seu ecossistema, estudo e trabalho com React e também estou aprendendo NodeJS e tenho muito interesse em Angular.
 
 Me considero uma pessoa autodidata e MUITO curiosa, acredito que minha curiosidade já me levou muito longe e a maioria das coisas que conquistei até agora foi graças a ela.
-
-Amo jogar videogames desde pequenininha, é um hobbie que boa parte da minha familia compartilha. Até minha vó jogava videogame, acredita?
-
-Tenho um gatinho lindo chamado Anakin, que ainda é um jovem padawan :cat2:
-
 <hr>
 
 Onde entrar em contato comigo?
