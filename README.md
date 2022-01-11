@@ -23,7 +23,7 @@ Onde entrar em contato comigo?
 
 <a href="https://twitter.com/danverscxp"><img src="./img/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/danverscxp)  
 
-<a href="mailto:moraesrayanne@hotmail.com"><img src="./img/gmail.png" width="16"></img></a> [Email](moraesrayanne@hotmail.com) 
+<img src="./img/gmail.png" width="16"></img></a> Email: moraesrayanne@hotmail.com
 
 
 
