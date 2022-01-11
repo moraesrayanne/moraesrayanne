@@ -11,9 +11,10 @@
 
 <hr>
 
-Meu nome é Rayanne Moraes, sou estudante de Análise e Desenvolvimento de Sistemas, atuo como estagiária Front End no Grupo Soma e estou a procura da minha primeira oportunidade como Júnior na área de desenvolvimento. No momento estou estudando Javascript e seu ecossistema, estudo e trabalho com React e também estou aprendendo NodeJS e tenho muito interesse em Angular.
+Meu nome é Rayanne Moraes, sou estudante de Análise e Desenvolvimento de Sistemas, atuo como estagiária Front End no Grupo Soma e estou a procura da minha primeira oportunidade como Júnior na área de desenvolvimento. No momento estou estudando e trabalhando com React, também estou estudando Next.js e aprender Typescript é a próxima meta.
 
 Me considero uma pessoa autodidata e MUITO curiosa, acredito que minha curiosidade já me levou muito longe e a maioria das coisas que conquistei até agora foi graças a ela.
+Tenho muito interesse em aprender novas tecnologias e estou sempre aberta a novas desafios.
 <hr>
 
 Onde entrar em contato comigo?
